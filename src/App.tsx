@@ -8,7 +8,7 @@ import SignUp from './pages/SignUp';
 const App: React.FC = () => (
   <>
     <GlobalStyle />
-    <SignUp />
+    <SignIn />
   </>
 );
 
